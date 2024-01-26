@@ -1,0 +1,148 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "name": "Wild Rider Layers Unisex Sneakers",
+      "price": 121,
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/380697/02/https://images.puma.net/images/380697/01/sv01/fnd/IND/w/2000/h/2000//IND/fmt/png/Wild-Rider-Layers-Unisex-Sneakers",
+      "description": "With design elements inspired by the movement and motion of city life, the Wild Rider Layers Unisex Sneakers brings a fresh new dimension to the iconic Rider family. We've layered a rich mix of premium leather, suede and hairy suede onto a nylon upper to create texture and a raw edgy look that is pure street. The IMEVA midsole and rubber outsole ensure combined lightweight comfort and great traction to take you forward, further and faster through your day and beyond.",
+      "quantity": 5,
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "2",
+      "name": "Dynamic Walker Performance Running Shoes",
+      "price": 99,
+      "image": "https://cdn.dsmcdn.com/ty1027/product/media/images/prod/SPM/PIM/20231030/18/6be2bc1b-3078-3819-b259-5922f952af84/1_org_zoom.jpg",
+      "description": "Elevate your running experience with the Dynamic Walker Performance Running Shoes. Designed for optimal performance, these shoes feature advanced cushioning, a breathable mesh upper, and a durable rubber outsole. Whether you're a seasoned runner or just starting out, these shoes will take you to new heights.",
+      "quantity": 5,
+      "rating": {
+        "rate": 4.2,
+        "count": 85
+      }
+    },
+    {
+      "id": "3",
+      "name": "Urban Explorer Stylish Sneakers",
+      "price": 89,
+      "image": "https://cms.vikingfootwear.com/uploads/2022/09/21160759/Urban-Explorer-High-M.jpg",
+      "description": "Discover the city in style with the Urban Explorer Stylish Sneakers. The combination of sleek design and premium materials makes these sneakers perfect for any urban adventure. The padded insole provides all-day comfort, while the non-slip rubber sole ensures stability on any surface.",
+      "quantity": 5,
+      "rating": {
+        "rate": 4.0,
+        "count": 95
+      }
+    },
+    {
+      "id": "4",
+      "name": "High-Performance Trail Running Shoes",
+      "price": 129,
+      "image": "https://s3.amazonaws.com/www.irunfar.com/wp-content/uploads/2022/06/15204805/Best-Trail-Running-Shoes-June-2022.jpg",
+      "description": "Conquer the trails with the High-Performance Trail Running Shoes. Engineered for rugged terrains, these shoes offer superior grip, durable construction, and advanced cushioning. Whether you're a trail enthusiast or a weekend hiker, these shoes are built to withstand the toughest conditions.",
+      "quantity": 5,
+      "rating": {
+        "rate": 4.5,
+        "count": 110
+      }
+    },
+    {
+      "id": "5",
+      "name": "Casual Street Style Canvas Sneakers",
+      "price": 59,
+      "image": "https://i5.walmartimages.com/asr/8841cced-8583-446f-83c4-2596e62e1993.28d6506ce4ca4d2bf71c5b66b90fd1b0.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "description": "Step out in style with the Casual Street Style Canvas Sneakers. These versatile sneakers feature a classic canvas upper and a comfortable insole, making them perfect for everyday wear. Whether you're running errands or meeting friends, these sneakers add a touch of casual flair to any outfit.",
+      "quantity": 5,
+      "rating": {
+        "rate": 3.8,
+        "count": 80
+      }
+    },
+    {
+      "id": "6",
+      "name": "Lightweight Fitness Training Shoes",
+      "price": 79,
+      "image": "https://img.fruugo.com/product/3/98/769555983_max.jpg",
+      "description": "Achieve your fitness goals with the Lightweight Fitness Training Shoes. Designed for agility and support, these shoes are ideal for gym workouts, cardio sessions, and cross-training. The breathable mesh upper keeps your feet cool, while the responsive midsole provides energy return with every step.",
+      "quantity": 5,
+      "rating": {
+        "rate": 4.1,
+        "count": 92
+      }
+    },
+    {
+      "id": "7",
+      "name": "Classic Leather High-Top Sneakers",
+      "price": 69,
+      "image": "https://d1u2r11vfzotmd.cloudfront.net/pub/media/catalog/product/cache/623a6d47865fe3aa4104b9eee6e95e1f/2/3/23iz10699578b0001_02.webp",
+      "description": "Elevate your streetwear game with the Classic Leather High-Top Sneakers. These timeless high-top sneakers feature a genuine leather upper and a padded collar for extra comfort. Whether you're a sneaker enthusiast or a fashion-forward individual, these sneakers add a touch of sophistication to your look.",
+      "quantity": 5,
+      "rating": {
+        "rate": 4.3,
+        "count": 105
+      }
+    },
+    {
+      "id": "8",
+      "name": "Trailblazer Waterproof Hiking Boots",
+      "price": 149,
+      "image": "https://www.tracerindia.com/cdn/shop/files/3_60476127-9203-4caa-9b77-d6dc6a9a41b5.jpg?v=1702727721&width=1946",
+      "description": "Conquer the trails in any weather with the Trailblazer Waterproof Hiking Boots. These rugged hiking boots feature a waterproof membrane, durable construction, and a grippy outsole for optimal traction. Whether you're hiking through rain or shine, these boots keep your feet dry and comfortable.",
+      "quantity": 5,
+      "rating": {
+        "rate": 4.7,
+        "count": 125
+      }
+    },
+    {
+      "id": "9",
+      "name": "Cityscape Running and Lifestyle Shoes",
+      "price": 109,
+      "image": "https://cdn.trendhunterstatic.com/thumbs/498/road-running-shoes.jpeg?auto=webp",
+      "description": "Navigate the urban jungle with the Cityscape Running and Lifestyle Shoes. Designed for both running and everyday wear, these shoes offer a perfect blend of style and performance. The lightweight design, breathable materials, and cushioned insole make them a versatile choice for city dwellers.",
+      "quantity": 5,
+      "rating": {
+        "rate": 4.0,
+        "count": 98
+      }
+    },
+    {
+      "id": "10",
+      "name": "Athletic Performance Cross-Trainers",
+      "price": 89,
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/892b592b-ed0d-4cb7-8623-051157eff156/air-cross-trainer-3-low-mens-shoes-l9MqNc.png",
+      "description": "Take your training to the next level with the Athletic Performance Cross-Trainers. These versatile cross-training shoes are engineered for stability, support, and comfort. Whether you're lifting weights or hitting the cardio machines, these shoes provide the performance you need to reach your fitness goals.",
+      "quantity": 5,
+      "rating": {
+        "rate": 4.2,
+        "count": 112
+      }
+    },
+    {
+      "id": "11",
+      "name": "Fashionable Slip-On Sneakers",
+      "price": 79,
+      "image": "https://www.cartrollers.com/wp-content/uploads/2022/08/MENS-FASHION-FABRIC-STRAP-SLIP-ON-SNEAKERS.jpeg",
+      "description": "Step into style with the Fashionable Slip-On Sneakers. These trendy slip-on shoes feature a modern design, a comfortable insole, and a durable outsole. Whether you're heading to a casual outing or meeting friends for coffee, these sneakers add a touch of fashion to your every step.",
+      "quantity": 5,
+      "rating": {
+        "rate": 3.9,
+        "count": 88
+      }
+    },
+    {
+      "id": "12",
+      "name": "All-Terrain Adventure Hiking Boots",
+      "price": 129,
+      "image": "https://terradrift.com/wp-content/uploads/2021/06/IMG_8412-1024x683.jpg.webp",
+      "description": "Embark on an all-terrain adventure with the All-Terrain Adventure Hiking Boots. These durable hiking boots are built to handle diverse landscapes with ease. The waterproof membrane keeps your feet dry, while the rugged outsole provides traction on rocky trails. Whether you're a seasoned hiker or a nature enthusiast, these boots are a reliable choice.",
+      "quantity": 5,
+      "rating": {
+        "rate": 4.6,
+        "count": 118
+      }
+    }
+  ]
+}

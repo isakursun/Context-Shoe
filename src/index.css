@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+/* anasayfa */
+
+.card-container {
+  width: 1000px;
+  margin: 40px auto;
+}
+
+.card-wrapper {
+  display: flex;
+  gap: 30px 30px;
+  flex-wrap: wrap;
+  padding: 30px 10px;
+}
+
+.shoe-card {
+  display: flex;
+  flex-direction: column;
+  width: 220px;
+  height: auto;
+  text-align: center;
+  border-radius: 20px;
+  background-color: beige;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+  transition: 0.3s all ease-in-out;
+  padding-bottom: 15px;
+}
+
+.shoe-card:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.shoe-card img {
+  width: 220px;
+  height: 200px;
+  border-radius: 20px;
+}
+
+/* detay sayfası */
+
+.detail-container {
+  width: 1000px;
+  margin: 50px auto;
+  display: flex;
+  padding: 50px;
+  gap: 50px;
+}
+
+.detail-img {
+  width: 50%;
+  border-radius: 20px;
+}
+
+.detail-img img {
+  height: 350px;
+  width: 500px;
+  border-radius: 20px;
+}
+
+.detail-content {
+  width: 50%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
